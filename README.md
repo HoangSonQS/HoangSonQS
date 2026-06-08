@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Software Engineering Student** | **Backend-focused Full-stack Web Developer** | **Software Architecture & DevOps Enthusiast**
+**Software Engineering Student** | **Backend-focused Full-stack Web Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoàng-sơn-nguyễn-46503b414)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangsonk4.dev@gmail.com)
@@ -16,7 +16,7 @@
 ---
 
 ## 🎯 About Me
-**Quick Tech Stack:** Java • Spring Boot • React • PostgreSQL • Docker • AWS EC2 • Agora
+**Quick Tech Stack:** Java • Spring Boot • React • React Native • PostgreSQL • Docker • AWS EC2
 
 ```text
 👨‍🎓 Software Engineering student at Industrial University of Ho Chi Minh City (IUH)
