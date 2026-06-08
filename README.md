@@ -93,7 +93,7 @@ The system supports complete online selling flows, product management, customer 
 
 ### 🌐 HK1 2025–2026 WWW Project — Academic Full-stack Web Application
 
-*Team Project | Team Lead / Core Backend Developer | Spring Boot | JavaScript*
+*Team Project | Team Lead / Core Backend Developer | Spring Boot | JavaScript | Layered*
 
 A full-stack web application developed for the Web Programming course.  
 The project was built by a 5-member team and followed a layered backend architecture.
@@ -122,7 +122,7 @@ The project was built by a 5-member team and followed a layered backend architec
 
 **Technical Summary:**
 
-- **Tech Stack:** Java, Spring Boot, JavaScript, HTML, CSS
+- **Tech Stack:** Java, Spring Boot, React, JavaScript, HTML, CSS
 - **Architecture:** Layered Architecture
 - **Backend:** REST API, Service Layer, Repository Layer, Database Integration
 - **Frontend:** JavaScript, HTML, CSS
